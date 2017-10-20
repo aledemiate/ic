@@ -1,2 +1,2 @@
-# ic
-MOCAP - OpenCV
+# IC - UFABC
+MOCAP - OpenCV scientific research 
