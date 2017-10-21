@@ -1,0 +1,33 @@
+# Directories and files
+set(AM_CMAKE_BINARY_DIR "/home/ale/Ale/ic/OpenCV/build/")
+set(AM_CMAKE_SOURCE_DIR "/home/ale/Ale/ic/OpenCV/")
+set(AM_CMAKE_CURRENT_SOURCE_DIR "/home/ale/Ale/ic/OpenCV/modules/highgui/")
+set(AM_CMAKE_CURRENT_BINARY_DIR "/home/ale/Ale/ic/OpenCV/build/modules/highgui/")
+set(AM_CMAKE_INCLUDE_DIRECTORIES_PROJECT_BEFORE "")
+set(AM_BUILD_DIR "/home/ale/Ale/ic/OpenCV/build/modules/highgui/opencv_test_highgui_autogen")
+set(AM_SOURCES "/home/ale/Ale/ic/OpenCV/modules/highgui/test/test_gui.cpp;/home/ale/Ale/ic/OpenCV/modules/highgui/test/test_main.cpp")
+set(AM_HEADERS "/home/ale/Ale/ic/OpenCV/modules/highgui/test/test_precomp.hpp")
+# Qt environment
+set(AM_QT_VERSION_MAJOR "5")
+set(AM_QT_MOC_EXECUTABLE "/home/ale/Dev/anaconda3/bin/moc")
+set(AM_QT_UIC_EXECUTABLE )
+set(AM_QT_RCC_EXECUTABLE )
+# MOC settings
+set(AM_MOC_SKIP "")
+set(AM_MOC_DEFINITIONS "HIGHGUI_EXPORTS;QT_CONCURRENT_LIB;QT_CORE_LIB;QT_GUI_LIB;QT_OPENGL_LIB;QT_TESTLIB_LIB;QT_WIDGETS_LIB;__OPENCV_BUILD=1")
+set(AM_MOC_INCLUDES "/home/ale/Ale/ic/OpenCV/build/modules/highgui;/home/ale/Ale/ic/OpenCV/modules/highgui;/home/ale/Ale/ic/OpenCV/build/modules/highgui/opencv_test_highgui_autogen/include;/home/ale/Ale/ic/OpenCV/build/3rdparty/ippicv/ippicv_lnx/include;/home/ale/Ale/ic/OpenCV/build;/usr/include/gdal;/usr/include/eigen3;/home/ale/Dev/anaconda3/include/qt;/home/ale/Dev/anaconda3/include/qt/QtCore;/home/ale/Dev/anaconda3/./mkspecs/linux-g++;/home/ale/Dev/anaconda3/include/qt/QtGui;/home/ale/Dev/anaconda3/include/qt/QtWidgets;/home/ale/Dev/anaconda3/include/qt/QtTest;/home/ale/Dev/anaconda3/include/qt/QtConcurrent;/home/ale/Dev/anaconda3/include/qt/QtOpenGL;/usr/include/gphoto2;/usr/include/libexif;/home/ale/Ale/ic/OpenCV/modules/ts/include;/home/ale/Ale/ic/OpenCV/modules/highgui/include;/home/ale/Ale/ic/OpenCV/modules/imgcodecs/include;/home/ale/Ale/ic/OpenCV/modules/videoio/include;/home/ale/Ale/ic/OpenCV/modules/core/include;/home/ale/Ale/ic/OpenCV/modules/imgproc/include;/home/ale/Ale/ic/OpenCV/modules/highgui/test;/usr/include")
+set(AM_MOC_OPTIONS "")
+set(AM_MOC_RELAXED_MODE "FALSE")
+set(AM_MOC_DEPEND_FILTERS "")
+set(AM_MOC_PREDEFS_CMD )
+# UIC settings
+set(AM_UIC_SKIP )
+set(AM_UIC_TARGET_OPTIONS )
+set(AM_UIC_OPTIONS_FILES )
+set(AM_UIC_OPTIONS_OPTIONS )
+set(AM_UIC_SEARCH_PATHS )
+# RCC settings
+set(AM_RCC_SOURCES  )
+set(AM_RCC_INPUTS )
+set(AM_RCC_OPTIONS_FILES )
+set(AM_RCC_OPTIONS_OPTIONS )
