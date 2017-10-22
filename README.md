@@ -2,7 +2,7 @@
 
 Scientific Research using the Open Source Computer Vision Library.
 
-Development of video analysis system 
+* Development of video analysis system 
 
 --------------------------------------
 
@@ -15,11 +15,25 @@ Development of video analysis system
 
 * sudo apt-get install libopencv-dev python-opencv
 * bash install-opencv.sh
+
+3 - After install, type in Terminal:
+
+* python2 Teste.py
+
+## Extra 
+
+Use an Android camera to get frames
+
+4 - Open the Terminal, go to the download directory and use this command:
+
 * bash droidcam.sh
 
-[ continue ]
+5 - After install, type in Terminal:
+
+* droidcam
+
+** Don't forget to chance the VideoCapture on python file.
 
 --------------------------------------
 
-Alexandre Demiate.
-www.demiate.com.br
+Alexandre Demiate - www.demiate.com.br
