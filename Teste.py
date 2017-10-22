@@ -35,7 +35,7 @@ while (cap.isOpened()) :
     #maximo = np.array([130,255,255])
 
     # - VERMELHO - (valores pequenos)
-    minimo = np.array([0,150,150])
+    minimo = np.array([0,50,50])
     maximo = np.array([10,255,255])
 
     # - VERMELHO - (valores grandes)
