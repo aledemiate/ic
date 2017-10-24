@@ -1,4 +1,7 @@
-# Teste de processamento
+# Teste de captura e processamento
+
+# comando para compilar -- python2 Teste.py
+# comando para abrir camera externa -- droidcam
 
 # Importacao das Bibliotecas:
 import cv2

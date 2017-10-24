@@ -1,5 +1,6 @@
-# -- Ale
-# -- Instalação do programa Droidcam 
+# Ale
+
+# Instalação do programa Droidcam 
 
 cd /tmp/
 sudo apt-get install linux-headers-`uname -r`
@@ -9,13 +10,12 @@ wget https://www.dev47apps.com/files/600/droidcam-${bits}bit.tar.bz2
 [[ ${bits} -eq 64 ]] && checksum=ad14437f0556d80f981d1027766afe29
 echo "${checksum}  droidcam-${bits}bit.tar.bz2" | md5sum -c --
 
-# OK?
+# Se deu certo
 
 tar xjf droidcam-${bits}bit.tar.bz2
 cd droidcam-${bits}bit/
 sudo ./install
 
-# -- Para inicializar, abrir no terminal e digitar:
-# -- droidcam
+# Para inicializar, abrir no terminal e digitar: droidcam
 
 
